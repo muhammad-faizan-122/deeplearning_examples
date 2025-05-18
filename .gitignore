@@ -1,2 +1,3 @@
 *__pycache__
 basics_nn/data
+*.pth
