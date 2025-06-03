@@ -1,4 +1,8 @@
-# DeepLearning Examples using Torch
+# Deep Learning Examples using Torch
 
+Building torch based deep learning model from scratch
 
-basics_nn/classifer_builtin_data
+## Install requirements
+```
+pip install -r requirements.txt
+```
